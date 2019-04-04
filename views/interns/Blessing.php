@@ -11,9 +11,9 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
-                        <h6>Mark Essien</h6>
-                        <p>Front-end Engineer</p>
+                        <img src="https://res.cloudinary.com/toluwa/image/upload/c_thumb,w_200,g_face/v1554392059/WhatsApp_Image_2018-01-26_at_09.22.20.jpg" alt="Mark Essien">
+                        <h6>Blessing Adeboye</h6>
+                        <p>Front-end Developer</p>
                         <ul class="list">
                            <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
+                        <p>Am a Front- end Developer| UI/UX designer and a graphics designer. I love designing and working with a creative mind. <br> I love working with people of like minds, people that will challenge me to do more. Am also a fast learner and i love learning new things. <br> Looking forward to gain a wonderful experience during this internship.    </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | Python</p>
+                        <p>HTMl | CSS | Designing with Figma </p>
                      </div>
                   </div>
                </div>
